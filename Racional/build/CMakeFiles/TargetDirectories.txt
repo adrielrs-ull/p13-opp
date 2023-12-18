@@ -1,0 +1,3 @@
+/home/usuario/practicas/p13-opp/Racional/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/p13-opp/Racional/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/p13-opp/Racional/build/CMakeFiles/racional-main.dir
